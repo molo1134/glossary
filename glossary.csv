@@ -1,24 +1,24 @@
-#regexp,modename,desc
-(a|fs)tv,Amateur Television,Fast Scan (ie. Standard PAL/NTSC) television signals on the amateur bands 70cm and above.
-am,Amplitude Modulation,An audio transmission where the signal is modulated by varying the amplitude of the carrier.
+#regexp,term,definition
+(a|fs)tv,Amateur Television,"Fast Scan (ie. Standard PAL/NTSC) television signals on the amateur bands 70cm and above."
+am,Amplitude Modulation,"An audio transmission where the signal is modulated by varying the amplitude of the carrier."
 aprs,Automatic Packet Reporting System,"A digital mode used to share information such as positions + telemetry, weather,\nmonitored frequencies, alerts etc and for text messaging"
 datv,Digital Amateur Television,"Digital Television, generally using the DVB-T and DVB-S worldwide standards on 70cm and above bands."
 (digital sstv|easypal),Digital Slow Scan Television,"Used to send still images, short video files or any other file,\nthe files can be encoded directly or used in ""Hybrid"" mode which sends a URL to fetch."
-dmr,DMR,A popular digital audio mode used mostly through UHF repeaters.
+dmr,DMR,"A popular digital audio mode used mostly through UHF repeaters."
 (d.*?star|d-?prs),D-Star,"A popular digital audio/data mode used mostly through VHF/UHF repeaters. Supports D-PRS,\nthe D-Star version of APRS when connected to a repeater that supports this feature."
 fsq,Fast Simple QSO,"A digital mode using Incremental Frequency keying over a 300Hz bandwidth on 80, 40 and 30 meter bands"
-(w|n)?fm,Frequency Modulation,An audio transmission where the signal is modulated by varying the frequency of the carrier.
+(w|n)?fm,Frequency Modulation,"An audio transmission where the signal is modulated by varying the frequency of the carrier."
 ft8,FT8,"A digital mode using 8-tone AFSK modulation over 50Hz bandwidth, transmitting short, mostly standardized messages\nover a 13 second transmission. A low-signal mode found in WSJT-X. - The most popular digital mode currently."
-(feld |fm )?hell(schreiber),Hellschreiber,An analog text mode where the character visuals are encoded as audio.
+(feld |fm )?hell(schreiber),Hellschreiber,"An analog text mode where the character visuals are encoded as audio."
 jt65,JT65,"A digital mode using 65-tone AFSK modulation over 177Hz bandwidth, transmitting short, mostly standardized\nmessages over a 47 second transmission. A low-signal mode found in WSJT-X."
 jt9,JT9,"A digital mode using 9-tone AFSK modulation over 15Hz bandwidth, transmitting short, mostly standardized messages\nover a 47 second transmission. A low-signal mode found in WSJT-X."
 (cw|morse( ?code)?),Morse code,"The original digital mode. Text transmitted as a series of dits and dahs - short and long tones,\neither as a carrier (CW) or as modulated audio."
-mt63\w+?,MT63,A digital text mode designed for harsh conditions. Available in a range of baudrates and bandwidths.
-olivia\w+?,OLIVIA,A digital text mode designed for harsh conditions. Available in a range of bandwidths and number of tones.
-(b|q|8)?psk(-| )?(31|63|125)?\w+?,Phase Shift Keying,A digital text mode with a variety of speeds and minor variants
-(rtty|deedl\w+),Radio Teletype,A digital mode using mark and space to transmit text. Popular in contests.
+mt63\w+?,MT63,"A digital text mode designed for harsh conditions. Available in a range of baudrates and bandwidths."
+olivia\w+?,OLIVIA,"A digital text mode designed for harsh conditions. Available in a range of bandwidths and number of tones."
+(b|q|8)?psk(-| )?(31|63|125)?\w+?,Phase Shift Keying,"A digital text mode with a variety of speeds and minor variants"
+(rtty|deedl\w+),Radio Teletype,"A digital mode using mark and space to transmit text. Popular in contests."
 [sul]sb,Single-Sideband,"An AM audio transmission with one sideband (one half of the AM signal) filtered out,\nand the carrier suppressed. More efficient than AM."
-ssdv,Slow Scan Digital Video,A digital slow scan video mode with error detection and correction. Popular with balloon operators on 70cm.
+ssdv,Slow Scan Digital Video,"A digital slow scan video mode with error detection and correction. Popular with balloon operators on 70cm."
 sstv,Slow Scan Television,"Used to send still images. Similar to weatherfax transmissions used by government agencies,\nbut in color, and with more cat pictures and bikinis. Quite popular."
-(system.*?fusion|c4fm),System Fusion/C4FM,A popular digital audio/data mode used mostly through VHF/UHF repeaters.
+(system.*?fusion|c4fm),System Fusion/C4FM,"A popular digital audio/data mode used mostly through VHF/UHF repeaters."
 wspr,WSPR,"A digital beacon mode using 4-tone AFSK modulation, transmitting a callsign, grid locator and power output level.\nUsed for propagation testing."
