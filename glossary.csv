@@ -25,7 +25,7 @@ dbi,dBi,"decibel gain/loss relative to an isotropic radiator (hypothetical radia
 dbm,dBm,"decibel gain/loss relative to 1 mW power (0 dBm = 1 mW)"
 db[µu]v/m,dBµV/m,"decibel gain/loss relative to 1 µV/m field strength"
 decibel,Decibel,"a term used to express the measurement of intensity or power, abbreviated dB.  The decibel scale is logarithmic, so every 3 dB gain is a doubling of power or intensity; a 10 dB gain is 10x the power.  A decibel is a comparison between a reference value and another value.  For instance, a particular antenna type might be said to have a 15 dB gain compared to a half-wave dipole antenna (15 dBd)."
-de,DE,"Means 'This Is'. Used in CW and Digital Modes. Example would be CQ CQ CQ DE WZ1ZZZ"
+^de$,DE,"Means 'This Is'. Used in CW and Digital Modes. Example would be CQ CQ CQ DE WZ1ZZZ"
 dfq,DFQ,"Dead Full Quieting - Used on FM to describe an excellent signal"
 datv,Digital Amateur Television,"Digital Television, generally using the DVB-T and DVB-S worldwide standards on 70cm and above bands."
 digital modes,Digital Modes,"computer-generated modulations that are used to transmit data rather than voice. A widely used mode is PSK31, which sends a 31 baud (50 WPM) signal containing ASCII characters. Digital modes are most revered for their resistance to interference and low bandwidth, such as JT65. Other digital modes offer speed, redundancy, and image sending."
