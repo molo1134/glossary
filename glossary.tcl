@@ -14,6 +14,10 @@ bind msg - !define glossary_msg
 set glossarycsv "glossary.csv"
 
 proc glossary_msg {nick uhand handle input} {
+  if { $input == {} } {
+    putmsg $nick "usage: !dict <terms>"
+    return
+  }
   set term [sanitize_string [string trim ${input}]]
   set term [encoding convertfrom utf-8 ${term}]
   putlog "glossary msg: $nick $uhand $handle $term"
@@ -26,6 +30,10 @@ proc glossary_msg {nick uhand handle input} {
 }
 
 proc glossary_pub { nick host hand chan text } {
+  if { $text == {} } {
+    putmsg $nick "usage: !dict <terms>"
+    return
+  }
   set term [sanitize_string [string trim ${text}]]
   set term [encoding convertfrom utf-8 ${term}]
   putlog "glossary pub: $nick $host $hand $chan $term"
