@@ -31,7 +31,7 @@ proc glossary_msg {nick uhand handle input} {
 
 proc glossary_pub { nick host hand chan text } {
   if { $text == {} } {
-    putmsg $nick "usage: !dict <terms>"
+    putchan $chan "usage: !dict <terms>"
     return
   }
   set term [sanitize_string [string trim ${text}]]
