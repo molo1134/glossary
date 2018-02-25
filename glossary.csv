@@ -1,110 +1,106 @@
-#regexp,term,definition
-73,73,Best wishes.
-88,88,Hugs and kisses.
-agc,AGC,Automatic Gain Control: a method to stabilize a varying signal level (typically audio). Same as AVC 'Automatic Volume Control.'
-(a|fs)tv,Amateur Television,Fast Scan (ie. Standard PAL/NTSC) television signals on the amateur bands 70cm and above.
-am,Amplitude Modulation,An audio transmission where the signal is modulated by varying the amplitude of the carrier.
+73,73,"Best wishes."
+88,88,"Hugs and kisses."
+agc,AGC,"Automatic Gain Control: a method to stabilize a varying signal level (typically audio). Same as AVC 'Automatic Volume Control.'"
+(a|fs)tv,Amateur Television,"Fast Scan (ie. Standard PAL/NTSC) television signals on the amateur bands 70cm and above."
+am,Amplitude Modulation,"An audio transmission where the signal is modulated by varying the amplitude of the carrier."
 antenna farm,Antenna Farm,"a location with multiple antennas, usually of different types."
-aprs,APRS,Amateur packet reporting system - a situational awareness system based on AX.25 unconnected packets over a 2m FM packet radio transport (Bell 202 (?) @ 1200 baud).
-ares,ARES,Amateur Radio Emergency Service.  This is a group of amateur radio volunteers who assist in public service and emergency communications.  It is organized by the American Radio Relay League (ARRL) and the Radio Amateurs of Canada (RAC).  It is not an official government organization.  Also see RACES.
-arrl,ARRL,American Radio Relay League.  A USA-based organization of amateur radio operators.  It publishes the journal QST.
-atno,ATNO,All Time New One - Making contact with a new country for the first time.
-attenuation,Attenuation,an engineer's term for lessening of power; the opposite of amplification or gain.
+aprs,APRS,"Amateur packet reporting system - a situational awareness system based on AX.25 unconnected packets over a 2m FM packet radio transport (Bell 202 (?) @ 1200 baud)."
+ares,ARES,"Amateur Radio Emergency Service.  This is a group of amateur radio volunteers who assist in public service and emergency communications.  It is organized by the American Radio Relay League (ARRL) and the Radio Amateurs of Canada (RAC).  It is not an official government organization.  Also see RACES."
+arrl,ARRL,"American Radio Relay League.  A USA-based organization of amateur radio operators.  It publishes the journal QST."
+atno,ATNO,"All Time New One - Making contact with a new country for the first time."
+attenuation,Attenuation,"an engineer's term for lessening of power; the opposite of amplification or gain."
 aprs,Automatic Packet Reporting System,"A digital mode used to share information such as positions + telemetry, weather, monitored frequencies, alerts etc and for text messaging"
-avc,AVC,Automatic Volume Control.  See AGC.
-barefoot,Barefoot,running without an amplifier between the transceiver and the antenna.
-boat ?anchor,Boat Anchor,"Slang term for an older rig, generally a heavy one using vacuum tubes."
+avc,AVC,"Automatic Volume Control.  See AGC."
+barefoot,Barefoot,"running without an amplifier between the transceiver and the antenna."
 bnc,BNC,"coax connector type. impedance not specified.  used for QRP equipment and lab equipment.  good into the VHF range, but lower power"
 counterpoise,Counterpoise,"a form of artificial ground, located above the earth and insulated from it. An automobile's metal body may act as the counterpoise for a mobile radio system."
-cq,CQ,'Calling any station'  Used in both SSB and CW is the short way to say 'Is anyone out there?'
+cq,CQ,"'Calling any station'  Used in both SSB and CW is the short way to say 'Is anyone out there?'"
 ctcss,CTCSS,"'Continuous Tone-Coded Squelch System' - Also called 'PL' for 'private line' - a way to avoid opening the squelch on transmission from stations transmitting to a different recipient.  Uses the presence of sub-audible tone to unsquelch.  Used on repeater inputs often, and usually repeater outputs as well.  Alternative is DCS.  Used only on FM."
 cw,CW,"continuous wave, or Morse code. Morse code works by keying a steady tone on and off; a steady tone is a continuous wave."
-db$,dB,abbreviation for decibel.  See decibel.
-dbd,dBd,decibel gain/loss relative to a flat dipole with 1/4 wave length legs in free space.  0 dBd is 2.15 dBi.
-dbi,dBi,decibel gain/loss relative to an isotropic radiator (hypothetical radiator which gives equal signal in all directions)
-dbm,dBm,decibel gain/loss relative to 1 mW power (0 dBm = 1 mW)
-db[µu]v/m,dBµV/m,decibel gain/loss relative to 1 µV/m field strength
+db$,dB,"abbreviation for decibel.  See decibel."
+dbd,dBd,"decibel gain/loss relative to a flat dipole with 1/4 wave length legs in free space.  0 dBd is 2.15 dBi."
+dbi,dBi,"decibel gain/loss relative to an isotropic radiator (hypothetical radiator which gives equal signal in all directions)"
+dbm,dBm,"decibel gain/loss relative to 1 mW power (0 dBm = 1 mW)"
+db[µu]v/m,dBµV/m,"decibel gain/loss relative to 1 µV/m field strength"
 decibel,Decibel,"a term used to express the measurement of intensity or power, abbreviated dB.  The decibel scale is logarithmic, so every 3 dB gain is a doubling of power or intensity; a 10 dB gain is 10x the power.  A decibel is a comparison between a reference value and another value.  For instance, a particular antenna type might be said to have a 15 dB gain compared to a half-wave dipole antenna (15 dBd)."
-de,DE,Means 'This Is'. Used in CW and Digital Modes. Example would be CQ CQ CQ DE WZ1ZZZ
-dfq,DFQ,Dead Full Quieting - Used on FM to describe an excellent signal
+de,DE,"Means 'This Is'. Used in CW and Digital Modes. Example would be CQ CQ CQ DE WZ1ZZZ"
+dfq,DFQ,"Dead Full Quieting - Used on FM to describe an excellent signal"
 datv,Digital Amateur Television,"Digital Television, generally using the DVB-T and DVB-S worldwide standards on 70cm and above bands."
 digital modes,Digital Modes,"computer-generated modulations that are used to transmit data rather than voice. A widely used mode is PSK31, which sends a 31 baud (50 WPM) signal containing ASCII characters. Digital modes are most revered for their resistance to interference and low bandwidth, such as JT65. Other digital modes offer speed, redundancy, and image sending."
 (digital sstv|easypal),Digital Slow Scan Television,"Used to send still images, short video files or any other file, the files can be encoded directly or used in 'Hybrid' mode which sends a URL to fetch."
 dmm,DMM,"Digital Multi-Meter.  The modern equivalent of a VOM or VTVM.  Uses digital readouts (typically LCD, occasionally LED or other) instead of analog meters.  Almost always use solid-state amplification to increase sensitivity and decrease loading effects.  Also see VOM and VTVM."
-dmr,DMR,A digital voice mode used mostly through UHF repeaters.
+dmr,DMR,"A digital voice mode used mostly through UHF repeaters."
 dsp,DSP,"'digital signal processing/processor' - performs things like filtering, auto-notch, noise reduction and so on in the digital domain instead of analog circuitry.  More flexible than an analog circuit.  Some operate only at the AF level (audio frequency), others operate at the IF level (intermediate frequency)."
 (d.*star|d-?prs),D-Star,"A digital voice/data mode used mostly through VHF/UHF repeaters. Supports D-PRS, the D-Star version of APRS when connected to a repeater that supports this feature."
-dtmf,DTMF,dual tone multi-frequency - touchtone dialing from telephony
+dtmf,DTMF,"dual tone multi-frequency - touchtone dialing from telephony"
 dx,DX,"Long Distance contacts (typically either overseas or across national boundaries, but occasionally just long distance)"
 eirp,EIRP,"Effective Isotropic Radiated Power - Power considering antenna gain over an isotropic radiator (theoretical antenna with equal radiation in all directions).  For example, a moxon antenna with 4 dBd gain (6.15 dBi gain), 1 dB of feedline loss and being driven by 100W power, this would result in a 330W EIRP.  Compare ERP."
-eme,EME,Earth-Moon-Earth - bouncing signals off the moon to another earth station.
+eme,EME,"Earth-Moon-Earth - bouncing signals off the moon to another earth station."
 erp,ERP,"Effective Radiated Power - Power output considering antenna gain over a dipole (see dBd), feedline losses, etc. in the direction of highest gain.  For example, a moxon antenna with 4 dBd gain, 1 dB of feedline loss and being driven by 100W power, you would see 200W ERP. Compare EIRP."
 fsq,Fast Simple QSO,"A digital mode using Incremental Frequency keying over a 300Hz bandwidth on 80, 40 and 30 meter bands"
-fldigi,fldigi,Software to decode and send digital modes.  Usually used with SSB radios on HF.
-(w|n)?fm,Frequency Modulation,An audio transmission where the signal is modulated by varying the frequency of the carrier.
+fldigi,fldigi,"Software to decode and send digital modes.  Usually used with SSB radios on HF."
+(w|n)?fm,Frequency Modulation,"An audio transmission where the signal is modulated by varying the frequency of the carrier."
 ft8,FT8,"A digital mode using 8-tone AFSK modulation over 50Hz bandwidth, transmitting short, mostly standardized messages over a 13 second transmission. A low-signal mode found in WSJT-X. - The most popular digital mode currently."
-gain,Gain,an engineer's term for amplification.  Attenuation is the opposite.
+gain,Gain,"an engineer's term for amplification.  Attenuation is the opposite."
 gmt,GMT,"Greenwich Mean Time.  Aka UTC (Coordinated Universal Time), aka World Time, aka Zulu.  This is the local time at the location of the Prime Meridian, which runs through Greenwich, England.  GMT is still commonly used but UTC is preferred."
 ground,Ground,"varies depending on context.  'Earth ground' is a physical connection to the earth, typically used in combination with an antenna.  'Chassis ground' is typically a common return for electrical connections in a device (such as a radio).  'Electrical ground' is typically used for voltage measurements, where the black lead of a voltmeter is connected to 'ground' and the red lead measures the voltage relative to ground."
-groundplane,Ground Plane,See: Counterpoise
-(feld |fm )?hell(schreiber),Hellschreiber,An analog text mode where the character visuals are encoded as audio.
+(feld |fm )?hell(schreiber),Hellschreiber,"An analog text mode where the character visuals are encoded as audio."
 ^hf,HF,"High Frequency. The band of frequencies between 3 MHz and 30 MHz.  Also called 'shortwave'.  Also see MF, VHF and UHF."
-hp,HP,High Power
-hsmm-mesh,HSMM-Mesh,high-speed multimedia mesh networking - a ham data network based on 802.11 technology with mesh routing
+hp,HP,"High Power"
+hsmm-mesh,HSMM-Mesh,"high-speed multimedia mesh networking - a ham data network based on 802.11 technology with mesh routing"
 ht,HT,"Handheld Transceiver, or colloquially, a walkie-talkie or handie-talkie."
 hz,Hz,"Hz is the abbreviation for 'Hertz,' a unit of measuring frequency.  One Hertz is one cycle per second.  It is part of the metric system and uses metric prefixes, so a kiloHertz (kHz) is 1,000 cycles per second, one MegaHertz (1MHz) is one million cycles per second, and so forth.  The term Hertz and Hz replaces the old 'cycles per second' and 'cps' terms."
-igate,IGate,a system that receives APRS packets over the air and sends them over the internet to a relay network
+igate,IGate,"a system that receives APRS packets over the air and sends them over the internet to a relay network"
 jt65,JT65,"A digital mode using 65-tone AFSK modulation over 177Hz bandwidth, transmitting short, mostly standardized messages over a 47 second transmission. A low-signal mode found in WSJT-X."
 jt9,JT9,"A digital mode using 9-tone AFSK modulation over 15Hz bandwidth, transmitting short, mostly standardized messages over a 47 second transmission. A low-signal mode found in WSJT-X."
-jt-?dx,JT-DX,Software for digital low-signal modes such as JT-65 and FT8 - forked from WSJT-X
 kcs,KCs,"kilocycles, an outdated but former commonly used word for 'kilohertz'"
-key,key,noun: a device which acts as a switch to transmit morse code; verb: to transmit; to cause a device to transmit
-lid,LID,a poor operator.  not an acronym.
-lmr,LMR,a low-loss type of coax.
+key,key,"noun: a device which acts as a switch to transmit morse code; verb: to transmit; to cause a device to transmit"
+lid,LID,"a poor operator.  not an acronym."
+lmr,LMR,"a low-loss type of coax."
 los,LOS,"Line of sight.  Communication is accomplished between two points with no major obstructions between them (e.g. mountains, hills, large buildings, or curvature of the earth)."
-lotw,LoTW,Logbook of the World.  A electronic QSL service operated by ARRL.
-lp,LP,Low Power
-m/2,M/2,"Multi Two (Multiple Operators, Two Radios)"
+lotw,LoTW,"Logbook of the World.  A electronic QSL service operated by ARRL."
+lp,LP,"Low Power"
+m/2,M/2,"Muti Two (Multiple Operators, Two Radios)"
 mf,MF,"Medium Frequency.  The band of frequencies between 300 kHz and 3 MHz, including the AM commercial broadcast band.  Also called 'medium wave'.  Also see HF, VHF and UHF."
 m/m,M/M,"Multi Multi (Multiple Operators, Multiple Radios)"
 (cw|morse( ?code)?),Morse code,"The original digital mode. Text transmitted as a series of dits and dahs - short and long tones, either as a carrier (CW) or as modulated audio."
 m/s,M/S,"Multi Single (Multiple Operators, Single Radio)"
-mt63\w+?,MT63,A digital text mode designed for harsh conditions. Available in a range of baudrates and bandwidths.
-muf,MUF,Maximum Usable Frequency.  The highest frequency that can be used for communication using skywave (ionospheric skip).  MUF varies with time of day and atmospheric conditions.
+mt63\w+?,MT63,"A digital text mode designed for harsh conditions. Available in a range of baudrates and bandwidths."
+muf,MUF,"Maximum Usable Frequency.  The highest frequency that can be used for communication using skywave (ionospheric skip).  MUF varies with time of day and atmospheric conditions."
 mult,Mult,"Contest Multipler - Making contact with a certain station could multiply your score. Those multiplers are defined in the rules and guideline of the contest. Some multipliers can be a new country, state, ARRL section, zone, region, continent and more."
 nvis,NVIS,"Near-Vertical Incidence Skywave. Antennas want to be at a certain height to operate best and radiate towards the horizon. If they are not high enough up, they will radiate upwards, and reflect on the ionosphere--this is called NVIS. Functionally, it means you have less-than-best-case reach, but this may be desired for certain operators (ie, if you'd like to get people somewhat closer, but outside of line-of-sight--and therefore want to use HF). NVIS works on lower HF bands such as 80m and 40m where ionospheric reflection is at a maximum. A typical NVIS setup is a low half-wave dipole less than 1/8th wavelength high. Also see [NVIS on Wikipedia](http://en.wikipedia.org/wiki/Near_Vertical_Incidence_Skywave)."
-olivia\w+?,OLIVIA,A digital text mode designed for harsh conditions. Available in a range of bandwidths and number of tones.
+olivia\w+?,OLIVIA,"A digital text mode designed for harsh conditions. Available in a range of bandwidths and number of tones."
 om,OM,"Old man.  not meant as an insult.  All male ham operators are old men, regardless of age."
-(b|q|8)?psk(-| )?(31|63|125)?\w+?,Phase Shift Keying,A digital text mode with a variety of speeds and minor variants
-rac,RAC,a Canadian-based organization for amateur radio operators.  It is similar to the US's ARRL.
-races,RACES,Radio Amateur Civil Emergency Service.  Usually pronounced with a hard E: 'race-ees.' This is a government-organized group that provides emergency communications.  Also see ARES.
+(b|q|8)?psk(-| )?(31|63|125)?\w+?,Phase Shift Keying,"A digital text mode with a variety of speeds and minor variants"
+rac,RAC,"a Canadian-based organization for amateur radio operators.  It is similar to the US's ARRL."
+races,RACES,"Radio Amateur Civil Emergency Service.  Usually pronounced with a hard E: 'race-ees.' This is a government-organized group that provides emergency communications.  Also see ARES."
 repeater,Repeater,"an amateur station that simultaneously receives and re-transmits signals over a wider area. Typically located on towers and tall buildings, used to 'boost' the range of HTs and mobile units. Repeaters receive on one frequency and transmit on another, typically in the same band, or two different bands (crossband). Most modern radios are automatically programmed to execute repeater shifts or 'offsets' in certain parts of ham radio bands. Chinese radios, however, do not."
-(rtty|deedl\w+),RTTY,"Radio TeleTYpe - a FSK digital mode.  Usually using the Baudot code, 170Hz offset and 45.45 baud.  In the old days there used to be dedicated teletype hardware that would do the FSK.  Modern use is usually with sound cards doing AFSK over SSB as a keyboard-to-keyboard digital mode. Also known as deedling in #redditnet."
+rtty,RTTY,"Radio TeleTYpe - a FSK digital mode.  Usually using the Baudot code, 170Hz offset and 45.45 baud.  In the old days there used to be dedicated teletype hardware that would do the FSK.  Modern use is usually with sound cards doing AFSK over SSB as a keyboard-to-keyboard digital mode."
 rubber Duck,Rubber Duck,"a stubby, rubberized antenna typically found on hand-held (handi-talkie or walkie-type) type radios.  Rubber ducks are typically very durable and more tolerant of abuse (being bent) than metal rod types, but are usually not as good performers as their metal alternatives--particularly telescoping whip types."
-running,Running,Staying on a frequency calling CQ
+running,Running,"Staying on a frequency calling CQ"
 [sul]sb,Single-Sideband,"An AM audio transmission with one sideband (one half of the AM signal) filtered out, and the carrier suppressed. More efficient than AM."
 skimmer,Skimmer,"Software combined with a Software Defined Radio to automatically decode morse code sent over it's receiving range. If the decoder picks up keywords (i.e. Test (contest), CQ), the callsign will be forwarded to the spotting network/cluster"
-ssdv,Slow Scan Digital Video,A digital slow scan video mode with error detection and correction. Popular with balloon operators on 70cm.
+ssdv,Slow Scan Digital Video,"A digital slow scan video mode with error detection and correction. Popular with balloon operators on 70cm."
 sstv,Slow Scan Television,"Used to send still images. Similar to weatherfax transmissions used by government agencies, but in color, and with more cat pictures and bikinis."
 sma,SMA,"smallish coax connector, used on HTs.  good into the GHz range."
-soab,SOAB,Single Op All Band (contacts on multiple bands)
-sohp,SOHP,Single Operator High Power (More than 100w/150w)
-solid state,Solid State,components use modern 'solid' components such as transistors and Integrated Circuits (ICs) instead of 'hollow' vacuum tubes.
-solp(a),SOLP(A),Single Operator Low Power Assisted (using spotting networks)
-solp,SOLP,Single Operator Low Power (100w/150w or less)
-sosb,SOSB,Single Op Single Band
+soab,SOAB,"Single Op All Band (contacts on multiple bands)"
+sohp,SOHP,"Single Operator High Power (More than 100w/150w)"
+solid state,Solid State,"components use modern 'solid' components such as transistors and Integrated Circuits (ICs) instead of 'hollow' vacuum tubes."
+solp(a),SOLP(A),"Single Operator Low Power Assisted (using spotting networks)"
+solp,SOLP,"Single Operator Low Power (100w/150w or less)"
+sosb,SOSB,"Single Op Single Band"
 s&p,S&P,"Search and Pounce - Searching for contacts then making contact, in a contest"
 ssb,SSB,"Short for single sideband, a very efficient mode of voice operation--more so than FM or AM modulation. AM modulation modulates the amplitude of a carrier signal with the sound waves you want to transmit; this results in one very strong carrier and two peaks around it of RF energy (sidebands). SSB works by lopping off both the carrier and one sideband, so that the same amount of RF energy is focused on less bandwidth, increasing efficiency."
 swr,SWR,"Standing Wave Ratio.  Very simply, a measure of efficiency in radiating energy from a transmitter to the antenna and beyond.  The lower the SWR the better (1:1 being ideal)."
-(system.*?fusion|c4fm),System Fusion/C4FM,A digital voice/data mode used mostly through VHF/UHF repeaters.
-uhf,UHF,Ultra-High Frequency.  The band of frequencies between 300 MHz and 3 GHz.  This includes the amateur 70cm (440 MHz) band.
+(system.*?fusion|c4fm),System Fusion/C4FM,"A digital voice/data mode used mostly through VHF/UHF repeaters."
+#regexp,term,definition
+uhf,UHF,"Ultra-High Frequency.  The band of frequencies between 300 MHz and 3 GHz.  This includes the amateur 70cm (440 MHz) band."
 utc,UTC,"Coordinated Universal Time, aka Greenwich Mean Time, aka World Time, aka Zulu.  This is the local time at the location of the Prime Meridian, which runs through Greenwich, England."
 vhf,VHF,"Very-High Frequency.  The band of frequencies between 30 MHz and 300 MHz.  This includes the popular amateur 6-meter (50 MHz) and 2-meter bands (144 MHz).  In ITU Region 2 (including North America) there is also the 1.25m (220 MHz) band. Also see HF, MHF and VHF."
 vom,VOM,"Volt-Ohm-Meter (aka Volt-Ohm-Milliammeter).  Typically a combination voltmeter/ammeter/ohmmeter in a portable case, and displays using an analog meter.  A very common example is the Simpson 260.  They typically require a battery for the ohmmeter portion but are passive for volt and ammeter measurement.  Superseded by digital multi-meters (DMMs).  Also see DMM and VTVM."
-vtvm,VTVM,Vacuum-Tube Volt Meter.  Very similar to a VOM but uses vacuum tube amplifiers to increase greatly sensitivity and decrease loading effects.  Superseded by digital multi-meters (DMMs).  Also see DMM and VOM.
+vtvm,VTVM,"Vacuum-Tube Volt Meter.  Very similar to a VOM but uses vacuum tube amplifiers to increase greatly sensitivity and decrease loading effects.  Superseded by digital multi-meters (DMMs).  Also see DMM and VOM."
 watt,Watt,"a unit of measure for power; one watt equal one Volt times one Ampere.  Watts are part of the metric system and use metric prefixes, so a kilowatt (kW) equals 1,000 watts, etc."
 whip,Whip,"a straight rod antenna, typically telescoping on portable radios or handi-talkies, typically a single piece for mobile installations."
-wsjt-x,WSJT-X,Software for digital low-signal modes such as JT-65 and FT8
 wspr,WSPR,"A digital beacon mode using 4-tone AFSK modulation, transmitting a callsign, grid locator and power output level. Used for propagation testing."
 wwv,WWV,"a radio station based in Fort Collins, Colorado which broadcasts the current time on several shortwave frequencies the HF band.  It's sister station is WWVH in Honolulu, Hawaii.  This station serves as a frequency standard, transmitting exactly on 2.5 MHz, 5 MHz, 10 MHz, 15 MHz, 20 MHz and 25 MHz.  See [wikipedia](https://en.wikipedia.org/wiki/Template:Time_signal_stations) for other time signal stations."
 xyl,XYL,"Ex-Young Lady, meaning 'my old lady' meaning wife."
