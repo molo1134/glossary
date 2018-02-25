@@ -105,6 +105,7 @@ vhf,VHF,"Very-High Frequency.  The band of frequencies between 30 MHz and 300 MH
 vom,VOM,"Volt-Ohm-Meter (aka Volt-Ohm-Milliammeter).  Typically a combination voltmeter/ammeter/ohmmeter in a portable case, and displays using an analog meter.  A very common example is the Simpson 260.  They typically require a battery for the ohmmeter portion but are passive for volt and ammeter measurement.  Superseded by digital multi-meters (DMMs).  Also see DMM and VTVM."
 vtvm,VTVM,"Vacuum-Tube Volt Meter.  Very similar to a VOM but uses vacuum tube amplifiers to increase greatly sensitivity and decrease loading effects.  Superseded by digital multi-meters (DMMs).  Also see DMM and VOM."
 watt,Watt,"a unit of measure for power; one watt equal one Volt times one Ampere.  Watts are part of the metric system and use metric prefixes, so a kilowatt (kW) equals 1,000 watts, etc."
+whacker,Whacker,"Someone who takes ham radio far too seriously, sometimes going to the extent of kitting out their vehicles to look like they are emergency services personel and wearing uniforms that could deceive the public into thinking they are more important than they are."
 whip,Whip,"a straight rod antenna, typically telescoping on portable radios or handi-talkies, typically a single piece for mobile installations."
 wsjt-?x,WSJT-X,"Software for low-signal digital modes such as JT-65 and FT8."
 wspr,WSPR,"A digital beacon mode using 4-tone AFSK modulation, transmitting a callsign, grid locator and power output level. Used for propagation testing."
