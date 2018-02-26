@@ -75,10 +75,11 @@ proc getglossary {lookup} {
     set re {^[^,]*,[^,]*,\"([^\"]*)\"$}
     regexp $re $line -> def
 
-    if {[string match -nocase "*${lookup}*" $term]} {
-      close $csvfile
-      return "$term: $def"
-    }
+#    # substring match on the term -- causes false positives like "YL" matching "XYL"
+#    if {[string match -nocase "*${lookup}*" $term]} {
+#      close $csvfile
+#      return "$term: $def"
+#    }
 
     if {[regexp -nocase -- $rxp $lookup]} {
       close $csvfile
