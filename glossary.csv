@@ -108,6 +108,8 @@ repeater,Repeater,"an amateur station that simultaneously receives and re-transm
 ^(rtty|deedl),RTTY,"Radio TeleTYpe - a FSK digital mode.  Usually using the Baudot code, 170Hz offset and 45.45 baud.  In the old days there used to be dedicated teletype hardware that would do the FSK.  Modern use is usually with sound cards doing AFSK over SSB as a keyboard-to-keyboard digital mode. -- Also known as Deedling by redditors."
 rubber ?ducky?,rubber duck,"a stubby, rubberized antenna typically found on hand-held (handi-talkie or walkie-type) type radios.  Rubber ducks are typically very durable and more tolerant of abuse (being bent) than metal rod types, but are usually not as good performers as their metal alternatives--particularly telescoping whip types."
 running,running,"Staying on a frequency calling CQ"
+^sk$,SK,"CW abbreviation: 'silent key'; 1. used at the end of a transmission 2. refers to a ham who has died"
+^skcc$,SKCC,"Straight Key Century Club: an organization promoting morse use with straight keys"
 skimmer,Skimmer,"Software combined with a Software Defined Radio to automatically decode morse code sent over it's receiving range. If the decoder picks up keywords (i.e. Test (contest), CQ), the callsign will be forwarded to the spotting network/cluster"
 ssdv,Slow Scan Digital Video,"A digital slow scan video mode with error detection and correction. Popular with balloon operators on 70cm."
 sstv,Slow Scan Television,"Used to send still images. Similar to weatherfax transmissions used by government agencies, but in color, and with more cat pictures and bikinis."
