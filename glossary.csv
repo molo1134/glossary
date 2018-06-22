@@ -117,6 +117,7 @@ rubber ?ducky?,rubber duck,"a stubby, rubberized antenna typically found on hand
 running,running,"Staying on a frequency calling CQ"
 ^sk$,SK,"CW abbreviation: 'silent key'; 1. used at the end of a transmission 2. refers to a ham who has died"
 ^skcc$,SKCC,"Straight Key Century Club: an organization promoting morse use with straight keys"
+sked,sked,"Scheduled contact, arranged beforehand or by other means."
 skimmer,Skimmer,"Software combined with a Software Defined Radio to automatically decode morse code sent over it's receiving range. If the decoder picks up keywords (i.e. Test (contest), CQ), the callsign will be forwarded to the spotting network/cluster"
 ssdv,Slow Scan Digital Video,"A digital slow scan video mode with error detection and correction. Popular with balloon operators on 70cm."
 sstv,Slow Scan Television,"Used to send still images. Similar to weatherfax transmissions used by government agencies, but in color, and with more cat pictures and bikinis."
