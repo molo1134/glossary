@@ -132,6 +132,7 @@ solid state,Solid State,"components use modern 'solid' components such as transi
 ^sota,SOTA,"Summits on the Air"
 s&p,S&P,"Search and Pounce - Searching for contacts then making contact, in a contest"
 [lus]sb,SSB,"Single sideband: a very efficient mode of voice operation--more so than FM or AM modulation. AM modulation modulates the amplitude of a carrier signal with the sound waves you want to transmit; this results in one very strong carrier and two peaks around it of RF energy (sidebands). SSB works by lopping off both the carrier and one sideband, so that the same amount of RF energy is focused on less bandwidth, increasing efficiency."
+swl,SWL,"Short-wave listener: someone who listens to the shortwave broadcast bands"
 swr,SWR,"Standing Wave Ratio:  Very simply, a measure of efficiency in radiating energy from a transmitter to the antenna and beyond.  The lower the SWR the better (1:1 being ideal)."
 (system.*?fusion|c4fm),System Fusion/C4FM,"A digital voice/data mode used mostly through VHF/UHF repeaters."
 ^tu$,TU,"CW abbreviation 'thank you'"
