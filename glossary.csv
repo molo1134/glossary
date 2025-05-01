@@ -78,6 +78,7 @@ iarp,IARP,"International Amateur Radio Permit - allows amateurs to operate overs
 iaru,IARU,"International Amateur Radio Union - an international confederation of national amateur radio organisations, represents amateur interests to the ITU"
 ^(ic|industry canada)$,IC,"Industry Canada - former name for radio regulatory body in Canada, now known as ISED"
 igate,IGate,"a system that receives APRS packets over the air and sends them over the internet to a relay network"
+^irc,IRC,"International Reply Coupon - a coupon that can be exchanged for one or more postage stamps representing the minimum postage for an unregistered priority airmail letter"
 ^ised$,ISED,"Innovation, Science, and Economic Development Canada - radio regulatory body in Canada"
 ^iota,IOTA,"Islands on the Air."
 itu,ITU,"International Telecommunication Union - UN body, coordinates global use of spectrum and sets worldwide technical standards"
